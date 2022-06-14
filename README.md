@@ -1,4 +1,4 @@
-# <img align="left" alt="Spypy" width="40px" src="https://spypy.cf/uploads/logo/3466d8e22b82641f77e40f4e6c24d858.png" draggable="false" /> Spypy ([Click to try 🚀](https://spypy.cf/))
+# <img align="left" alt="Spypy" width="100px" src="https://spypy.cf/uploads/logo/3466d8e22b82641f77e40f4e6c24d858.png" draggable="false" /> Spypy ([Click to try 🚀](https://spypy.cf/))
 
 Spypy🔍 - get unlimited real-time✨ analytics for your website in 5 minutes📦
 
@@ -114,16 +114,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
 ## 📷 UI
 
 ### Snippite
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Snippite/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Snippite/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Snippite/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Snippite/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Snippite/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/5.PNG" draggable="false" />
