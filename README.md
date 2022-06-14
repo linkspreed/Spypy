@@ -1,11 +1,11 @@
-# <img align="left" alt="Snippite" width="40px" src="https://snippite.tk/uploads/brand/0InJ5v3I7yT1aFXCJfpDGjeW1YBZWcsDn4laG9JI.png" draggable="false" /> Snippite ([Click to try 🚀](https://snippite.tk/))
+# <img align="left" alt="Spypy" width="40px" src="https://spypy.cf/uploads/logo/3466d8e22b82641f77e40f4e6c24d858.png" draggable="false" /> Spypy ([Click to try 🚀](https://spypy.cf/))
 
-Snippite 💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Spypy🔍 - get unlimited real-time✨ analytics for your website in 5 minutes📦
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Snippite/blob/main/changelog.md)** **Check out the full Snippite changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Snippite/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Snippite besides development**
+## **[Changelog 🔍](https://github.com/linkspreed/Spypy/blob/main/changelog.md)** **Check out the full Spypy changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Spypy/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Spypy besides development**
 
 
 <div align="center">
@@ -15,44 +15,90 @@ Snippite 💙 - as a developer,👨‍💻 get deep insights and analyzes for yo
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+### DASHBOARD
+**Everything at just a glance**
+The dashboard contains all the details you will need to know how you traffic is looking and evolving.
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+  - Evolution on the past 30 days (select the range yourself)
+  - Top pages, countries, referrers
+  - All about UTM's to know where which campaign is the most effective
+  - Simple & custom Goals tracking
+  - Other visitors details such as: Devices, OS, Browsers..etc
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
+### VISITORS
+**Understand your visitors**
+Evaluating your visitors behaviour and repeated actions is the best way to know what is working and what is not going so well.
 
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+  - View and get details of all the visitors
+  - Analyze all their past sessions including the flow of the visited pages and their actions
+  - Identify your visitors
+  - By connecting your logged in users from your app, to the tracking system by any identifier
+
+### BETA
+**Session replays**
+Session replays are the most convenient way to easily check what a visitor did and his journey throughout the site.
+
+  - Pros: High quality replays, the best way to visually see everything a visitor did
+  - Cons: Can be heavy on the server
+
+### BETA
+**Heatmaps**
+Get to understand where your users are clicking and where the cold zones of your website pages are.
+
+  - Multiple heatmaps per website
+  - Desktop, tablet & mobile heatmaps
+  - Clicks tracking heatmaps
+
+### PRIVACY
+**Your data, owned by you**
+One of the main reasons to why should you choose this product over anything else on the web. All the tracked data will be fully owned by you and stored on our servers.
+
+  - All data is owned by you
+  - Supports Opt-Out for your visitors
+  - Respects DNT (Do not track)
+  - No IP addresses are being collected
+
+### Lightweight mode
+Spypy even has a lightweight mode that fulfills the basic tracking needs while extremely fast.
+
+  - **< 6 kB** tracking script
+  - No cookies and no local storage
+  - GDPR, CCPA and PECR compliant
+  - No tracking consent needed
+
+### More features
+**Here are some extra features that you should know about:**
+
+  - Teams system
+      - Users can share access to their websites analytics with other people.
+  - Email reports system
+      - Auto sending weekly or monthly email reports to websites that have this option enabled.
+  - Dark mode
+      - Simply beautiful and ready to go right out of the box.
+  - Social logins
+      - Twitter, Google, Facebook & Discord integrations.
+  - Automatic generated sitemap
+      - Your sitemap is automatically generated and updated for you.
+  - Two Factor Authentication
+      - You and your users can use 2FA if they want to.
+  - Customizable & unlimited plans
+      - Admins can create & configure plan features, with their own pricing directly from the admin panel.
+  - Multilingual ready (with RTL support)
+      - The whole platform can be translated via the Admin Panel with ease.
+  - API ready
+      - Comes with a few useful API endpoints for both the user and the admin.
+  - Custom domains
+      - Fully featured custom domains system to bypass ad-blockers.
+  - Cookie consent
+      - Integrated cookie consent banner, configurable via the admin panel & translatable.
+  - Blogging system
+I      - ntegrated simple, easy to use & translatable blogging system.
 
 **AND SO MUCH MORE ...**
 
 ## More
- 
-Snippite is **free**, **real-time** and with **unlimited** resources 
+
+Spypy is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -63,7 +109,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Snippite freely and use all features to an unlimited extent.
+ You can enjoy Spypy freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
