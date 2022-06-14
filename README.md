@@ -114,16 +114,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 ### Snippite
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/5.PNG" draggable="false" />
