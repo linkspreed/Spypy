@@ -1,6 +1,5 @@
 # Update 15.0.0 - 7 May, 2022
 
-The logo, favicon & opengraph of the site will have to be re-added after the update due to an upgrade to the related handling system.
 Implemented the ability to enable/disable auto language detection via the admin panel.
 Implemented the ability to set a different logo base on the theme style (dark or light).
 Implemented the ability to set a different logo for emails.
@@ -25,6 +24,7 @@ Fixed Mollie annual payments not processing correctly.
 Fixed reset password not working for some particular emails & not logging the user in after the password change.
 Fixed language preference of a user being reset when re-logging in.
 Fixed admin impersonation of user logout not working properly.
+
 Update 14.0.0 - 16 March, 2022
 
 Implemented Cookie Consent functionality, highly configurable via the admin panel and translation system.
