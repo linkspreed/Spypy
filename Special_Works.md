@@ -1,3 +1,6 @@
+### 28.10.2022 (announcement Spypy)
+- We're developing new codes for **Spypy**.
+
 # 16.06.2022
   - We have released a new update for Spypy. 
   - Version 15.0.0 is now available.
