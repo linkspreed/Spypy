@@ -1,4 +1,9 @@
 ### 28.10.2022 (announcement Spypy)
+- The launch of version 17.0.0 of **Spypy** was successful! 🥳
+- The new update is live now :)
+- https://spypy.cf 🔗
+
+### 28.10.2022 (announcement Spypy)
 - We are now starting the launch of v17.0.0.
 
 ### 28.10.2022 (announcement Spypy)
