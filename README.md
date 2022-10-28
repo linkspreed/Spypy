@@ -4,7 +4,7 @@ Spypy🔍 - get unlimited real-time✨ analytics for your website in 5 minutes�
 
 
 
-## **[Changelog 🔍](https://github.com/linkspreed/Spypy/blob/main/changelog.md)** **Check out the full Spypy changelog**
+## **[Changelog 🔍](https://github.com/linkspreed/Spypy/blob/main/changelog.txt)** **Check out the full Spypy changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Spypy/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Spypy besides development**
 
 
