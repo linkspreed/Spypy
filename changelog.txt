@@ -1,3 +1,40 @@
+Update 17.0.0 - 28 October, 2022
+
+Reworked the admin panel user view page to see all the details available for a user account.
+Implemented the ability to see the source of registration of an account (social, API, normal).
+Implemented new payments webhook in the admin panel.
+Improved upload type fields: now it will specify the maximum size allowed.
+Improved all file input fields to better looking ones.
+Updated some external libraries to their latest versions.
+Now you can install the product and use it on PHP 8.1 as well (please report if there are any related bugs).
+Reworked the Affiliate system earnings percentages. Now you can set the percentage on a per-plan basis.
+Reworked the login screen when using two factor authentication for a cleaner look.
+Reworked the Affiliate system referral URL to work on any kind of internal URL.
+Blog posts featured image is now considered the opengraph image as well.
+Blog posts pages now also have a sidebar with widgets, for consistency purposes.
+Refactored a lot of code, resulting in less translation strings for common recurring words.
+Multiple code cleanups & improvements throughout the product.
+Fixed specific email sending with default webhost settings for Email notifications.
+Fixed Two Factor Auth not working.
+
+Update 16.0.0 - 14 June, 2022
+
+Implemented the new Blogging system.
+Can be enabled/disabled from the admin panel.
+All posts & categories are added to the sitemap.
+Admin panel blog posts management page with filters, pagination & bulk deletion features.
+Admin panel blog posts categories page with filters, pagination & bulk deletion features.
+Good looking public blog page with recent posts, categories widget & popular posts widget.
+Implemented the ability to filter, paginate & bulk delete the admin panel pages system.
+Implemented the ability to filter, paginate & bulk delete the admin panel pages categories system.
+Implemented the ability to see Cities statistics without clicking on a specific country.
+Reworked the affiliate plugin: Now you can define affiliate percentages on a per-plan basis.
+Reworked all admin panel deletion modals, to clean up HTML and remove repetitive language strings.
+Reworked other parts of the system that lead to removal of repetitive language strings.
+Reworked the Paddle implementation to work with the new API changes.
+Fixed replays page not working when there are no replays stored.
+Fixed replays deletion modal not showing up.
+
 # Update 15.0.0 - 7 May, 2022
 
 Implemented the ability to enable/disable auto language detection via the admin panel.
