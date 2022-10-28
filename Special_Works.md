@@ -2,7 +2,7 @@
 - The code is now ready for the launch of version 17.0.0 for **Spypy**.
 
 ### 28.10.2022 (announcement Spypy)
-**Spypy** gets a big update today - we are going to launch v17.0.0. 😍
+- **Spypy** gets a big update today - we are going to launch v17.0.0. 😍
 
 ### 28.10.2022 (announcement Spypy)
 - We're developing new codes for **Spypy**.
