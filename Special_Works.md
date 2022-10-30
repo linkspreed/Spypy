@@ -1,3 +1,6 @@
+### 30.10.2022 (announcement Spypy)
+- We're working on **Spypy**.
+
 ### 28.10.2022 (announcement Spypy)
 - https://github.com/linkspreed/Spypy/blob/main/changelog.txt
 - The entire changelog is now available on Github.
