@@ -1,4 +1,4 @@
-# <img align="left" alt="Spypy" width="100px" src="https://spypy.cf/uploads/logo/3466d8e22b82641f77e40f4e6c24d858.png" draggable="false" /> Spypy ([Click to try 🚀](https://spypy.cf/))
+# <img align="left" alt="Spypy" width="100px" src="https://spypy.cf/uploads/main/7e61c221bbed80b4973afcf122de6156.png" draggable="false" /> Spypy ([Click to try 🚀](https://spypy.cf/))
 
 Spypy🔍 - get unlimited real-time✨ analytics for your website in 5 minutes📦
 
