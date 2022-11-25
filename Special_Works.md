@@ -1,3 +1,7 @@
+### 25.11.2022 (announcement Spypy)
+- We fixed the registration problem on **Spypy**. 
+- Everything works fine now! 😎
+
 ### 30.10.2022 (announcement Spypy)
 - We're working on **Spypy**.
 
