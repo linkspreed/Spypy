@@ -1,4 +1,8 @@
 ### 26.11.2022 (announcement Spypy)
+- The test run was successful.  
+- We are very proud of the result and the fast time!
+
+### 26.11.2022 (announcement Spypy)
 - We're going to do a full control run on **Spypy** now :D
 
 ### 25.11.2022 (announcement Spypy)
