@@ -1,3 +1,8 @@
+
+### 17.12.2022 (announcement Spypy)
+- Our **Spypy** logo is back! 
+- We could fix the bug on the site instantly.
+
 ### 26.11.2022 (announcement Spypy)
 - The test run was successful.  
 - We are very proud of the result and the fast time!
