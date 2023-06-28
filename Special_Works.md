@@ -1,3 +1,5 @@
+### 28.06.2023 (announcement Spypy)
+- 📢 Exciting news! We just added Spypy to our Subdomain system! 🎉🔐 Check out https://spypy.cf which now redirects you to https://spypy.linkspreed.com. 🌐 Don't worry, nothing changes for you while using the platform. It's just a technical update in the background. 🖥️🔒 Ready to explore? Any cool features you're excited to try? #SpypyUpdate #EnhancedSecurity 😎🔍🔒
 
 ### 17.12.2022 (announcement Spypy)
 - Our **Spypy** logo is back! 
